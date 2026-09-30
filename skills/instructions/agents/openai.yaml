@@ -1,0 +1,5 @@
+interface:
+  default_prompt: • Từ giáo án này, gợi ý prompt ảnh cho phần hình thành kiến thức.
+  display_name: TRỢ LÝ TẠO ẢNH MINH HỌA BÀI GIẢNG CHUẨN SGK
+  short_description: 'Trợ lý chuyên phân tích bài học/giáo án, đề xuất prompt tạo
+    ảnh '
